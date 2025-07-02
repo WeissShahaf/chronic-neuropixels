@@ -190,8 +190,15 @@ Autodesk Inventor 2024
 **Advantages:**
 
 - **neatly tucks the flex-wire aand headstage way from reach of the mouse, while keeping a low profile of the implant - removes the need for a headstage holder piece
-
+**important note: the side holes for the screws have been modified and threaded for metric screws, and now have a radius of 0.6 mm, for "M1" 1mm wide screws **
 ### Images
+
+![image](https://github.com/user-attachments/assets/5ab10b1b-8408-4706-acf1-a21a8815aa24)
+
+![image](https://github.com/user-attachments/assets/bba2f595-71ee-4d9b-bec7-2c2623a70047)
+
+![image](https://github.com/user-attachments/assets/1304000e-d817-4129-9f1a-f181fa66a093)
+
 
 ### Material
 
